@@ -19,6 +19,11 @@
             "from": "Simonne",
             "to": "Claire",
             "amount": 5
+        },
+        {
+            "from": "George",
+            "to": "Simonne",
+            "amount": 15
         }
     ]
 }
