@@ -24,6 +24,11 @@
             "from": "George",
             "to": "Simonne",
             "amount": 15
+        },
+        {
+            "from": "David",
+            "to": "Emiliano",
+            "amount": 5
         }
     ]
 }
